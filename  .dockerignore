@@ -1,0 +1,14 @@
+# ignore node_modules and dist, will be created inside image
+node_modules
+dist
+
+# ignore files, the are just for development
+.prettierrcy
+.eslintrc.js
+.gitignore
+README.md
+test
+*.spec.ts
+.dockerignore
+Dockerfile
+.elasticbeanstalk
